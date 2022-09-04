@@ -1,0 +1,12 @@
+#header{
+    color: deepskyblue !important;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#text{
+    color: lightcoral !important;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+}

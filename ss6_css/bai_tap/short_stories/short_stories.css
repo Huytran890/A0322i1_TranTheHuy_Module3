@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: "Times New Roman";
+}
+
+div {
+    background-image: url(https://st.quantrimang.com/photos/image/2019/04/24/multiplebackground-4.png), url(https://st.quantrimang.com/photos/image/2019/04/24/multiplebackground-1.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 200%;
+    color: red;
+}
+
+h4{
+    position: relative;
+    margin-left: 600px;
+}
