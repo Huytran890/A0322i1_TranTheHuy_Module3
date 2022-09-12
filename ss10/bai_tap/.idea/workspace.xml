@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="668043b5-6900-4d47-8fde-53f2fb41a27e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/change_texting_color/change_textingColor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/change_texting_color/change_textingColor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/create_layout_for_facebook/RW.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/create_layout_for_facebook/create_layout_for_facebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/create_layout_for_facebook/create_layout_for_facebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/create_layout_for_facebook/cteate_RW.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/Movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/case1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/case2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/case3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/case4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/case5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/short_stories.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/short_stories/short_story.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/texting_format.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_css/texting_format.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss7_disign_page_web/bai_tap/create_layout_RWD/create_layout_RWD.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss7_disign_page_web/bai_tap/create_layout_RWD/create_layout_RWD.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Ef75XzJdTmvYRIbZLGezmIi2f8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668043b5-6900-4d47-8fde-53f2fb41a27e" name="Default Changelist" comment="" />
+      <created>1662974601934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662974601934</updated>
+      <workItem from="1662974603501" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="23" key="new project wizard" timestamp="1662974646524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1662974646524" />
+  </component>
+</project>
