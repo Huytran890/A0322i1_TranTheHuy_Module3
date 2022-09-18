@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e1ef66-342c-47d6-84fd-ae042026a6f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/change_money/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/java/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/java/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/product_mvc/src/main/webapp/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/calculator/basic_calculator/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/calculator/basic_calculator/src/main/java/CalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/controller/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/src/main/java/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/hien_thi_danh_sach_khach_hang/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss8_BootStrap/practice/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss8_BootStrap/practice/assets/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss8_BootStrap/practice/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss8_BootStrap/practice/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss8_BootStrap/practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss8_BootStrap/practice/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EqhuyIcrzDbhwZlUlzBjQMeNTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e1ef66-342c-47d6-84fd-ae042026a6f6" name="Default Changelist" comment="" />
+      <created>1663329247611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663329247611</updated>
+      <workItem from="1663329248896" duration="27000" />
+      <workItem from="1663329901524" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="23" key="new project wizard" timestamp="1663329928446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1663329928446" />
+  </component>
+</project>
