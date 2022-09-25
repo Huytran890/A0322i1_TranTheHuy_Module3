@@ -1,0 +1,66 @@
+/*Reset CSS*/
+* {
+    /*Emet*/
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 62.5%;
+}
+
+#main {
+
+}
+
+#header {
+    height: 56px;
+    background-color: #000;
+    /*display: flex;*/
+    /*align-items: center;*/
+}
+
+/*#nav {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+#nav li{
+    display: inline-block;
+    min-width: 110px;
+}
+
+#nav li a {
+    display: inline-block;
+    line-height: 56px;
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.6rem;
+    padding: 0 32px;
+}
+
+#nav li:hover a{
+    color: #000;
+    background-color: #ccc;
+}
+
+#nav .sub_nav {
+    display: none;
+}
+
+#slider {
+
+}
+
+
+#content {
+
+}
+
+
+#footer {
+
+}

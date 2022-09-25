@@ -1,13 +1,13 @@
 package user.models;
 
-public class User_Models {
+public class UserModels {
     private int id;
     private String fullName;
 
-    public User_Models() {
+    public UserModels() {
     }
 
-    public User_Models(int id, String fullName) {
+    public UserModels(int id, String fullName) {
         this.id = id;
         this.fullName = fullName;
     }
